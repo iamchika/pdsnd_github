@@ -23,6 +23,10 @@ based on user-defined criteria in an interactive way.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* **[Udacity]()**
+* [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
+* Python documentation
+* [Udacity commit style guide](https://udacity.github.io/git-styleguide/)
+* 
 
 
