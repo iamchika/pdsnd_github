@@ -11,10 +11,10 @@ for three major cities in the United States— ***Chicago, New York City, and Wa
 based on user-defined criteria in an interactive way.
 
 ### Files used
-**chicago.csv**
-**new_york_city.csv**
-**washington.csv**
-**bikeshare.py**
+* **chicago.csv**
+* **new_york_city.csv**
+* **washington.csv**
+* **bikeshare.py**
 
 ### Requirements
 * **Python 3, Numpy, Pandas** installed using Anaconda or miniconda
@@ -22,11 +22,10 @@ based on user-defined criteria in an interactive way.
 * A terminal application like [Git](https://git-scm.com/downloads)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 * **[Udacity]()**
 * [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
 * Python documentation
 * [Udacity commit style guide](https://udacity.github.io/git-styleguide/)
-* 
+
 
 
