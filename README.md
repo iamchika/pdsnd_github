@@ -16,6 +16,11 @@ based on user-defined criteria in an interactive way.
 **washington.csv**
 **bikeshare.py**
 
+### Requirements
+* **Python 3, Numpy, Pandas** installed using Anaconda or miniconda
+* A text editor like [Sublime](https://www.sublimetext.com/download)
+* A terminal application like [Git](https://git-scm.com/downloads)
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
