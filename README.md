@@ -1,8 +1,7 @@
 # **Explore BikeShare Data Using Python**
 
 ### Date created
-Include the date you created this project and README file.
-
+20/10/2023
 
 
 ### Description
